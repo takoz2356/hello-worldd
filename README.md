@@ -1,4 +1,5 @@
 # hello-worldd
-Ciao
-Atanasov Atanas Todorov.
+Ciao.
+Mi chiamo Atanasov Atanas Todorov.
+Ho 17 anni.
 Mi piace l'informatica.
